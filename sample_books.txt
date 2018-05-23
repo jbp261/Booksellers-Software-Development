@@ -1,0 +1,105 @@
+﻿0007448031
+A Game of Thrones
+George R.R. Martin
+Random House LLC
+50
+8.5
+11.99
+1613832788
+A Clash of Kings
+George R.R. Martin
+Random House LLC
+50
+8.5
+11.99
+0553106635
+A Storm of Swords
+George R.R. Martin
+Random House LLC
+50
+8.5
+11.99
+0553801503
+A Feast for Crows
+George R.R. Martin
+Random House LLC
+30
+8.5
+11.99
+0553801473
+A Dance With Dragons
+George R.R. Martin
+Random House LLC
+60
+8.5
+11.99
+0142402516
+Looking For Alaska
+John Green
+Speak
+40
+3.5
+5.99
+1455520640
+The Longest Ride
+Nicholas Sparks
+Grand Central Publishing
+30
+7.5
+10.99
+1400079152
+Inferno
+Dan Brown
+Anchor
+40
+4.5
+7.99
+0061122416
+The Alchemist
+Paul Coelho
+HarperOne
+25
+3.5
+6.99
+162779073X
+No Place To Hide
+Glenn Greenwald
+Metropolitan Books
+40
+6.5
+9.99
+1449355730
+Learning Python, 5th Edition
+Mark Lutz
+O?Reilly Media
+30
+7.5
+10.99
+0131103628
+The C Programming Language
+Brian W. Kernighan
+Prentice Hall
+40
+10.5
+12.99
+111882377X
+C++ for Dummies
+Stephen R. Davis
+For Dummies
+20
+9.5
+11.99
+0321356683
+Effective Java
+Joshua Bloch
+Addison-Wesley
+20
+10.5
+12.99
+1430223634
+Beginning Ruby
+Peter Cooper
+Apress
+30
+11.5
+13.99
